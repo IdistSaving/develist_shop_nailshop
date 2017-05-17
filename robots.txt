@@ -1,6 +1,6 @@
 User-agent: *
 Disallow:
-Sitemap:http://nail_shop.develist.com/sitemap.xml
+Sitemap:http://nailshop.develist.com/sitemap.xml
 
 User-agent:Yeti
 Disallow:

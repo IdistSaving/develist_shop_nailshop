@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>네일샵 솔루션</title>
-    <link>http://nail_shop.develist.com</link>
+    <link>http://nailshop.develist.com</link>
     <description>네일샵사이트제작,실시간네일샵예약현황,네일샵모바일웹,반응형네일샵사이트</description>
     <language>ko</language>
     <pubDate>Wed, 17 May 2017 19:54:15 +0900</pubDate>
@@ -11,7 +11,7 @@
 
     <item>
       <title>네일샵 솔루션</title>
-      <link>http://nail_shop.develist.com/</link>
+      <link>http://nailshop.develist.com/</link>
 
       	<description>
           &lt;p&gt;네일샵 웹사이트를 PC 버전과 네일샵 모바일버전으로!&lt;br /&gt;
@@ -20,7 +20,7 @@
         </description>
 
        <category>posts/</category>
-      <guid>http://nail_shop.develist.com/landing/</guid>
+      <guid>http://nailshop.develist.com/landing/</guid>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0900</pubDate>
     </item>
   </channel>
