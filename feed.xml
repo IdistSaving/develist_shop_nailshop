@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>독서실 솔루션</title>
-    <link>http://readingroom.develist.com/</link>
-    <description>독서실사이트제작,독서실모바일웹,독서실예약기능포함,특가사이트제작</description>
+    <title>네일샵 솔루션</title>
+    <link>http://nail_shop.develist.com</link>
+    <description>네일샵사이트제작,실시간네일샵예약현황,네일샵모바일웹,반응형네일샵사이트</description>
     <language>ko</language>
     <pubDate>Wed, 17 May 2017 19:54:15 +0900</pubDate>
     <generator>Jekyll v3.2.1</generator>
-    <managingEditor>독서실 솔루션</managingEditor>
+    <managingEditor>네일샵 솔루션</managingEditor>
 
     <item>
-      <title>독서실 솔루션</title>
-      <link>http://readingroom.develist.com/</link>
+      <title>네일샵 솔루션</title>
+      <link>http://nail_shop.develist.com/</link>
 
       	<description>
-          &lt;p&gt;독서실 웹사이트 PC 버전, 독서실 웹사이트 PC 버전&lt;br /&gt;
+          &lt;p&gt;네일샵 웹사이트를 PC 버전과 네일샵 모바일버전으로!&lt;br /&gt;
           SNS 자동 소통 프로그램으로 웹사이트부터 홍보까지 한방에 !
-          독서실 맞춤 솔루션을 경제적 부담없이 경험해보세요.&lt;br /&gt;
+          부담은 적지만 효과는 확실한 네일샵 맞춤 솔루션을 지금 만나보세요.&lt;br /&gt;
         </description>
 
        <category>posts/</category>
-      <guid>http://readingroom.develist.com/landing/</guid>
+      <guid>http://nail_shop.develist.com/landing/</guid>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0900</pubDate>
     </item>
   </channel>
