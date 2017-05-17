@@ -40,11 +40,15 @@ angular
   $rootScope.initialize = function() {
     // $resource('json/club.json').get({}, function(service) {
     // $resource('json/nail.json').get({},function(service){
+    console.info('initialize');
     $resource('json/readingRoom.json').get({},function(service){
       $rootScope.service = service;
+      console.info('$rootScope.service',$rootScope.service);
+
     });
   }
   $rootScope.initialize();
+
 
 
 
